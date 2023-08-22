@@ -22,7 +22,7 @@ The following packages are used in this project:
 
  ## 💾 Project files
  - **stock-analysis.ipynb** - analysis of the past closing prices of the tech companies
- - **stock-prediction.ipynb** - prediction of the future closing prices of Meta
+ - **stock-prediction.ipynb** - prediction of the future closing prices of the tech companies
  - **tech-stock-data.csv** - stock prices data file derived from the stock-analysis.ipynb file
 
  ## 👣 Steps for running the project code
@@ -30,5 +30,8 @@ The following packages are used in this project:
 2. Install the required packages (as listed in the "Prerequisites" section above)
 3. Open "stock-analysis.ipynb", then "stock-prediction.ipynb" in jupyter notebook
 4. Run the code
+
+ ## Status
+this project is still under progress.
 
 _This is my first personal project and first attempt to analyse data using machine learning techniques. Please enjoy!_
