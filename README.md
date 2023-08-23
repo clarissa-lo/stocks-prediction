@@ -10,7 +10,7 @@ Technology stocks have experienced huge fluctuations in recent years, especially
 Therefore, the main objectives of the project are:
 1) to analyse the daily percentage changes of the technology stock closing prices
 2) to explore the factors affecting the closing prices
-3) to test the relationship between the closing prices
+3) to test the relationship of the closing prices between technology stocks,
 4) to predict the closing prices 25 days into the future.
 
  ## 🔍 Prerequisites
