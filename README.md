@@ -5,7 +5,7 @@
 
 
 ## ☁️ Aims and objectives
-Technology stocks have experienced huge flucuations in recent years, especially between 2020 Q1 to 2022 Q1. During this period of time between 1 Jan 2020 to 31 Mar 2022, we witnessed different world events, including the outbreak of COVID-19 and Russia-Ukraine war. I am interested to focus on the stocks of some of the largest technology companies (including Meta, Apple, Amazon and Alphabet) to analyse their stock price data during time period, to explore whether these world events would impact their stock prices and to predict future stock closing prices.
+Technology stocks have experienced huge flucuations in recent years, especially between 2020 Q1 to 2022 Q1. During this period of time between 1 Jan 2020 to 31 Mar 2022, we witnessed different world events, including the outbreak of COVID-19 and Russia-Ukraine war. I am interested to focus on the stocks of some of the largest technology companies (including Meta, Apple, Amazon and Alphabet) to analyse their stock price data during this time period, to explore whether these world events would impact their stock prices and to predict future stock closing prices.
 
 Therefore, the main objectives of the project are:
 1) to analyse the daily percentage changes of the technology stock closing prices
