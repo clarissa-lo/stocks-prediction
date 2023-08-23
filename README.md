@@ -34,7 +34,4 @@ The following packages are used in this project:
 3. Open "stock-analysis.ipynb", then "stock-prediction.ipynb" in jupyter notebook
 4. Run the code
 
- ## Status
-this project is still under progress.
-
 _This is my first personal project and first attempt to analyse data using machine learning techniques. Please enjoy!_
