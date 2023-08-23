@@ -9,7 +9,7 @@ The stock market has experienced huge flucuations in recent years, especially be
 
 The main objectives of the project involves:
 1) Analysing the stock price data of some of the largest tech companies (including Meta, Apple, Amazon and Google) between 1 Jan 2020 to 31 Mar 2022 and
-2) Predicting future closing prices of the tech companies.
+2) Predicting the tech companies' closing prices 25 days into the future.
 
  ## 🔍 Prerequisites
 The following packages are used in this project:
