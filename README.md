@@ -5,11 +5,13 @@
 
 
 ## ☁️ Aims and objectives
-The stock market has experienced huge flucuations in recent years, especially between 2020 Q1 to 2022 Q1. During this period of time, we witnessed different world events, including the outbreak of COVID-19 and Russia-Ukraine war. I am interested to explore whether these world events would impact the stock prices of these tech companies. And whether we are able to predict future closing prices according to stock price data such as the daily opening, highest, lowest prices and volume. 
+Technology stocks have experienced huge flucuations in recent years, especially between 2020 Q1 to 2022 Q1. During this period of time between 1 Jan 2020 to 31 Mar 2022, we witnessed different world events, including the outbreak of COVID-19 and Russia-Ukraine war. I am interested to focus on the stocks of some of the largest technology companies (including Meta, Apple, Amazon and Alphabet) to analyse their stock price data during time period, to explore whether these world events would impact their stock prices and to predict future stock closing prices.
 
-The main objectives of the project involves:
-1) Analysing the stock price data of some of the largest tech companies (including Meta, Apple, Amazon and Google) between 1 Jan 2020 to 31 Mar 2022 and
-2) Predicting the tech companies' closing prices 25 days into the future.
+Therefore, the main objectives of the project are:
+1) to analyse the daily percentage changes of the technology stock closing prices
+2) to explore the factors affecting stock closing prices
+3) to test the relationship between stock closing prices
+4) to predict the technology companies' closing prices 25 days into the future.
 
  ## 🔍 Prerequisites
 The following packages are used in this project:
