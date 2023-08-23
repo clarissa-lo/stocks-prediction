@@ -23,10 +23,10 @@ The following packages are used in this project:
 - scikit-learn
 
  ## 💾 Project files
- - **stock-analysis.ipynb** - analysis of the past closing prices of the tech companies
- - **stock-prediction.ipynb** - prediction of the future closing prices of the tech companies
+ - **stocks-analysis.ipynb** - analysis of the past closing prices of the tech companies
+ - **stocks-prediction.ipynb** - prediction of the future closing prices of the tech companies
  - **tech-stock-data.csv** - stock prices data file derived from the stock-analysis.ipynb file
- - **stock-prediction-slides.pdf** - slides summarising the project findings
+ - **stocks-analysis-prediction-slides.pdf** - slides summarising the project findings
 
  ## 👣 Steps for running the project code
 1. Clone the git repo locally
